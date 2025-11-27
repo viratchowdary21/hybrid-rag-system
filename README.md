@@ -11,11 +11,6 @@ A sophisticated Retrieval-Augmented Generation system that combines sparse (BM25
 - **Comprehensive Evaluation**: Hit@5, MRR, and latency metrics
 - **PDF Processing**: Automatic chunking and indexing of multi-page PDFs
 
-## 📋 Prerequisites
-
-- Python 3.8+
-- 2GB+ RAM
-- PDF document to process (minimum 5 pages)
 
 ## 🛠️ Setup Instructions
 
