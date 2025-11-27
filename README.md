@@ -52,7 +52,7 @@ python run.py
 API available at `http://localhost:8000`.
 
 ## 🏗️ System Architecture
-
+```mermaid
 graph TB
     USER[User Query] --> API[FastAPI Endpoint]
     
@@ -93,6 +93,7 @@ graph TB
     class DENSE,SPARSE retrievalStyle
     class RANK,FORMULA rankingStyle
     class LLM,ANSWER llmStyle
+```
 
     
 ## 🎯 Custom Ranking Formula
